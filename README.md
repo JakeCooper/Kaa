@@ -1,4 +1,4 @@
-## Kaa
+## Smith
 
 This AI client uses the [bottle web framework](http://bottlepy.org/docs/dev/index.html) for route management and response building, and the [gunicorn web server](http://gunicorn.org/) for running bottle on Heroku.
 
